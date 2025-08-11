@@ -36,31 +36,45 @@ Built with the **MERN stack** — MongoDB, Express.js, React, and Node.js
 
 1. **Clone the repository**
 
-   ```bash
-   git clone https://github.com/Ninadshirsat/mern-notesapp.git
-   cd mern-notesapp
-   ```
+```bash
+  git clone https://github.com/Ninadshirsat/mern-notesapp.git
+  cd mern-notesapp
+```
 
-2. **Install backend dependencies**  
-   npm install
+2. **Install backend dependencies**
+
+```bash
+  npm install
+```
 
 3. **Install frontend dependencies**
+
+```bash
    cd frontend
    npm install
    cd ..
+```
 
 4. **Set up environment variables**
    Create a .env file in the root folder and add:
 
+```env
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
+```
 
 5. **Start the backend server**
+
+```bash
    npm start
+```
 
 6. **Start the frontend application**
+
+```bash
    cd frontend
    npm start
+```
 
 **💻 Usage:**
 **Local Development:**
