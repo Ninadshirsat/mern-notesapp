@@ -98,10 +98,27 @@ PUT /notes/:id Update a note
 DELETE /notes/:id Delete a note
 
 🤝 Contributing
-Fork the repository.
-Create a new branch for your feature/fix.
-Submit a pull request.
-For issues or feature requests, open an issue in the repo.
+**To contribute:**
+
+1. **Fork the project.**
+
+2. **Create your feature branch:**
+
+```bash
+   git checkout -b feature/AmazingFeature
+```
+
+3. **Commit your changes:**
+
+```bash
+   git commit -m 'Add some AmazingFeature'
+```
+
+4. **Push to the branch:**
+
+```bash
+   git push origin feature/AmazingFeature
+```
 
 📜 License
 This project is licensed under the MIT License — see the LICENSE file for details.
